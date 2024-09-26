@@ -1,0 +1,31 @@
+Problem patterns:-
+1. fast and slow pointers
+2. merge intervals
+3. sliding window
+4. islands(matrix travesal)
+5. two pointers
+6. cyclic sort
+7. in-place reversal of linked list
+8. breadth first search
+9. depth first search
+10. two heaps
+11. subsets
+12. modified binary search
+13. bitwise XOR 
+14. top 'k' elements
+15. K way merge
+16. 0/1 knapsack (Dynamic programming)
+17. Unbounded Knapsack (Dynamic programming)
+18. Topological sort(Graphs)
+19. Monotonic stack
+20. backtracking
+
+Data structures:-
+strings, lists, linked lists, stacks, queue, trees, graphs
+
+Algorithms:-
+1. sorting
+2. searching
+3. recursion
+4. dynamic programming
+5. greedy algorithms

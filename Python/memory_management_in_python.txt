@@ -1,0 +1,9 @@
+Memory Allocation:-
+-> stack memory(references, function calls) -> at compile time(intermediate .pyc file)
+-> heap memory(values) -> at interpretation time
+
+Garbage Collection:- 
+-> Removes objects having no references
+-> it uses two algorithms:-
+    i. Reference counting
+    ii. Tracing

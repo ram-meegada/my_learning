@@ -1,0 +1,52 @@
+sample model creation:-
+from django.db import models
+
+#1 add app name in settings INSTALLED_APPS 
+
+#2 Create your models here.
+class BookModel(models.Model):
+    name = models.CharField(max_length=100, blank=True, null=True)
+    cost = models.IntegerField()
+    quantity = models.IntegerField()
+    added_at = models.DateTimeField(auto_now_add=True)
+reference:- django model fields
+task:- create another model
+
+#3 python manage.py makemigrations
+-> will add migration details in migration folder of app
+
+#4 python manage.py migrate
+-> will transfer data to database according to migrations details in migrations folder
+
+-------------------------------------------------------------------------------------------------------
+
+NEXT:-(CRUD)
+C -> create -> POST
+R -> read -> GET
+U -> update -> PUT
+D -> delete -> DELETE
+
+# CREATE
+-> Color.objects.create(name="red", quantity=100, expired_date='2028-08-05')
+
+# GET
+-> c = Color.objects.get(id=1)
+ -> print(c.<field_name>)
+-> c = Color.objects.all()
+ -> print(c.values())
+-> Color.objects.filter(expired_date='2028-08-05')
+
+# UPDATE
+->  get_c.name = "RED"
+    get_c.save()
+
+# DELETE
+-> get_c.delete()
+-------------------------------------------------------------------------------------------------------
+-> python manage.py shell
+
+{'name': ['weqweqw'], 'price': ['2312312'], 'rating': ['3212']}>
+
+
+
+

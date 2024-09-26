@@ -1,0 +1,19 @@
+STOCKS
+
+Sources:- screener, vijay malik blogs, annual reports
+
+1. How to identify stock
+  i. Top down approach(from country to company)
+  ii. Bottom up approach(using queries)
+  iii. daily known companies
+  iv. stock cloning (ratestar.com, valueresearchonline.com)
+
+2. Qualitative Analysis:-
+  i. management integrity(remuneration, related party transactions abnormalities)
+  ii. skill set
+  iii. criminal track record and regulatory issues
+  iv. resignation
+  v. auditor fees
+  vi. track of atleast 5 years of management agendas
+  vii. egoistic
+  viii. promoter pledging

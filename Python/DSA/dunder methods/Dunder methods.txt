@@ -1,0 +1,8 @@
+1. __call__ method
+-> Allows an instance of a class to be called as if it were a function. 
+-> When you define __call__ inside a class, you can use objects of that class like regular functions.
+
+2.__new__ method
+-> responsible for creating instance.
+-> this method will be called before __init__
+-> used in scenarios like singleton patter(class which will have one instance only)
