@@ -1,0 +1,20 @@
+python -m venv <name>
+dir
+enviranment activation: <name>\Scripts\activate
+for deactivaton:deactivate
+for checking the installations:pip list
+for creating django project:django-admin startproject <name>
+for installing django:pip install django
+
+for checking whether it is installed:dir
+to enter the project:cd <name>
+to write code:code .
+to create an app for doing entire work:python manage.py startapp <name>
+to run : python manage.py runserver
+
+-> add app name in installed apps in settings.py
+-> create urls.py in app and include in project urls.py
+
+
+
+

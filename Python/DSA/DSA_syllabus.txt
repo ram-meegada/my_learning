@@ -1,0 +1,156 @@
+1. **Mathematics & Number Theory**
+   - Prime numbers, divisibility
+   - Greatest Common Divisor (GCD) and Least Common Multiple (LCM)
+   - Modular arithmetic
+   - Euclidean algorithm
+   - Bit Manipulation
+     - AND, OR, XOR
+     - Shifting bits
+     - Counting set bits (Brian Kernighan’s algorithm)
+
+2. **Complexity Analysis**
+   - Time and Space complexity
+   - Big-O, Big-Theta, and Big-Omega notations
+   - Amortized analysis
+   - Recursion and recurrence relations
+
+3. **Arrays and Strings**
+   - Basics (1D & 2D arrays)
+   - Searching and sorting in arrays
+   - Sliding window problems
+   - Two pointers technique
+   - Subarray sum, subarray product
+   - Kadane's Algorithm (Maximum Subarray Sum)
+   - String manipulation
+   - String matching algorithms (Rabin-Karp, KMP, Z Algorithm)
+   - Anagram, Palindrome, Substrings, Subsequences
+
+4. **Linked Lists**
+   - Singly Linked List
+   - Doubly Linked List
+   - Circular Linked List
+   - Reversal of linked list
+   - Detecting and removing loops
+   - Merging linked lists
+   - Intersection of linked lists
+   - Cycle detection (Floyd's cycle detection)
+   - Flattening linked lists
+
+5. **Stacks and Queues**
+   - Stack operations (push, pop, top)
+   - Queue operations (enqueue, dequeue, front)
+   - Implementing stacks and queues using arrays or linked lists
+   - Applications of stacks: Balancing parentheses, postfix evaluation, stock span problem
+   - Monotonic stacks
+   - Queue variants: Circular queue, Deque, Priority queue
+   - Implementation of LRU Cache (using Deque/LinkedHashMap)
+
+6. **Hashing**
+   - Hash maps and sets
+   - Collision resolution techniques
+   - Hashing applications: Count frequencies, finding duplicates, two sum problem, longest subarray with sum
+
+7. **Searching & Sorting**
+   - Binary Search and variants (first occurrence, last occurrence, etc.)
+   - Search in rotated sorted array
+   - Sorting algorithms:
+     - Merge Sort
+     - Quick Sort
+     - Bubble Sort
+     - Insertion Sort
+     - Heap Sort
+   - Counting sort, Bucket sort, Radix sort
+
+8. **Recursion & Backtracking**
+   - Base cases, recursive cases
+   - Factorial, Fibonacci
+   - N-Queens problem
+   - Sudoku Solver
+   - Subset sum problem
+   - Permutations, Combinations
+   - Rat in a maze
+
+9. **Dynamic Programming (DP)**
+   - Introduction to DP
+   - Memoization and Tabulation
+   - Classical problems:
+     - Fibonacci series
+     - Longest Increasing Subsequence (LIS)
+     - Longest Common Subsequence (LCS)
+     - 0/1 Knapsack
+     - Matrix chain multiplication
+     - Coin change problem
+     - Edit Distance
+     - Subset sum problem
+     - Rod cutting problem
+     - DP on trees
+
+10. **Greedy Algorithms**
+   - Greedy vs Dynamic Programming
+   - Fractional Knapsack problem
+   - Activity selection problem
+   - Huffman coding
+   - Job sequencing problem
+   - Minimum spanning tree (Kruskal’s and Prim’s)
+
+11. **Trees**
+   - Binary Tree
+   - Binary Search Tree (BST)
+   - Tree traversals (Inorder, Preorder, Postorder)
+   - Height, diameter of a tree
+   - Balanced trees (AVL trees, Red-Black trees)
+   - Lowest Common Ancestor (LCA)
+   - Binary Tree to DLL conversion
+   - Binary Indexed Tree (Fenwick Tree)
+   - Segment Tree
+
+12. **Heaps**
+   - Binary Heaps (Min-Heap, Max-Heap)
+   - Heap operations: insert, delete, extract-max/min
+   - Heapify algorithm
+   - Applications of Heaps:
+     - Priority queue
+     - K largest/smallest elements
+     - Median of a stream
+
+13. **Graphs**
+   - Representation of graphs (adjacency matrix, adjacency list)
+   - Graph traversal algorithms:
+     - Breadth First Search (BFS)
+     - Depth First Search (DFS)
+   - Detecting cycles in a graph (both directed and undirected)
+   - Shortest path algorithms:
+     - Dijkstra’s Algorithm
+     - Bellman-Ford Algorithm
+   - Topological sorting
+   - Strongly connected components (Kosaraju's algorithm)
+   - Floyd-Warshall Algorithm
+   - Minimum Spanning Tree (MST)
+     - Kruskal's Algorithm
+     - Prim's Algorithm
+
+14. **Trie (Prefix Tree)**
+   - Insertion, searching in a Trie
+   - Longest prefix matching
+   - Applications of Trie: Auto-complete, spell checker, word break problem
+
+15. **Segment Trees**
+   - Construction of Segment Tree
+   - Range queries (sum, minimum, maximum)
+   - Lazy propagation
+   - Applications in solving range-based problems
+
+16. **Disjoint Set Union (Union-Find)**
+   - Union by rank and path compression
+   - Applications of Union-Find:
+     - Cycle detection in undirected graph
+     - Kruskal's Algorithm (for MST)
+     - Connected components
+
+17. **Bit Manipulation (Advanced)**
+   - Subset generation using bits
+   - Bitmasking
+   - Counting set bits
+   - Applications:
+     - N Queens (using bit manipulation)
+     - Toggling, setting, and unsetting bits
